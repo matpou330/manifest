@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="qnx" fetch="xxxxxxxgit-dev-host.ott.qnx.com:/home/mpoulin/android_repo/manifest.git" />
+  <remote name="qnx" fetch="git-dev-host.ott.qnx.com:/home/mpoulin/android_repo/manifest.git" />
   <default revision="master" remote="qnx" />
 
   <project path="repo"
